@@ -5,9 +5,6 @@ var App = React.createClass({
         return ( <h1>
             is this thing on ?
             </h1>
-                <button>
-            Click Me!
-            </button>
         );
     }
 });
